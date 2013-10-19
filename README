@@ -3,7 +3,7 @@ A simple speech recognition program using Google's Web Speech API
 
 Usage: gspeech FILE [COMMAND]
 
-Example: speech message.flac ./record.sh
+Example: gspeech message.flac ./record.sh
 
 
 Notes:
